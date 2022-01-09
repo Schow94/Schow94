@@ -11,6 +11,9 @@
 
 <p><a href="https://www.schow.codes">➡️ Check out my website</a></p>
 
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Schow94&layout=compact" alt="Top Languages"></p>
+
+
 <h2>GitHub Stats</h2>
 <p><img src="https://github-readme-stats.vercel.app/api?username=Schow94&amp;show_icons=true" alt="GitHub Stats"></p>
 
