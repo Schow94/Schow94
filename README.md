@@ -5,7 +5,7 @@
 - Personal Website: schow.codes
 
 <h2>GitHub Stats</h2>
-[![Stephen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Schow94)](https://github.com/anuraghazra/github-readme-stats)
+<p><img src="https://github-readme-stats.vercel.app/api?username=Schow94&amp;show_icons=true" alt="GitHub Stats"></p>
 
 <!--
 **Schow94/Schow94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
