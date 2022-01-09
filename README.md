@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- I'm a Computer Science student
-- - 🔭 I work mostly in... JS and Python
+- 🧑‍💻 I'm a Computer Science student
+- 🔭 I work mostly in... JS and Python
 - 🌱 I'm currently learning... Golang
 
 
