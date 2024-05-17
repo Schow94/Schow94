@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🧑‍💻 I'm a Computer Science student. I work mostly in Javascript, Python, & Go
+- 🧑‍💻 I work mostly in Javascript, Python, & Go
 - 🔭 Languages: Javascript, Python, Go, Java, Dart, C, C++
 - 💬 Databases: PostgreSQL, MySQL, Mongo, Firebase, SQLite
 - 🌱 Frameworks/Libraries: React, Node, Express, Spring Boot, Gin, Gorm, Mongoose, Redux, SQLAlchemy, Flask, React Native, Flutter, Pandas, Numpy, Scipy, Matplotlib, Selenium
